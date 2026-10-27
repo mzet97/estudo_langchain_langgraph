@@ -1,0 +1,13 @@
+{
+  "paused": {
+    "draft": "order:42",
+    "approved": false
+  },
+  "pending": [
+    "place_order"
+  ],
+  "resumed": {
+    "draft": "order:42",
+    "approved": true
+  }
+}

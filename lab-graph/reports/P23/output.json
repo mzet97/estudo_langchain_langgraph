@@ -1,0 +1,17 @@
+{
+  "result": {
+    "doubled": 42
+  },
+  "summary": {
+    "nodes": [
+      "double",
+      "finish"
+    ],
+    "calls": {
+      "double": 1,
+      "finish": 1
+    },
+    "total_ms": 2.1433410001918674,
+    "errors": {}
+  }
+}

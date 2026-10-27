@@ -1,0 +1,14 @@
+{
+  "covered": {
+    "sources": [
+      "retry"
+    ],
+    "grounded": true,
+    "answer": "RetryPolicy repete o nó em falha transitória; erro de programação não é retentad"
+  },
+  "uncovered": {
+    "sources": [],
+    "grounded": false,
+    "answer": "Sem fonte local — abstenho-me de responder."
+  }
+}

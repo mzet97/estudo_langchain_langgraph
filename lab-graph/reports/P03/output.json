@@ -1,0 +1,10 @@
+{
+  "even4": {
+    "value": 4,
+    "route": "even"
+  },
+  "odd7": {
+    "value": 7,
+    "route": "odd"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "input_n": 21,
+  "output": {
+    "n": 21,
+    "doubled": 42
+  },
+  "keys": [
+    "doubled",
+    "n"
+  ]
+}

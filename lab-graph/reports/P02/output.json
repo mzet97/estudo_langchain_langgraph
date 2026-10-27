@@ -1,0 +1,13 @@
+{
+  "input": {
+    "items": [],
+    "total": 0
+  },
+  "output": {
+    "items": [
+      "a",
+      "b"
+    ],
+    "total": 2
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "base_url": "http://127.0.0.1:8080/v1",
+  "models": [
+    "/var/mnt/HD1TB/tese/models/gemma-4-12b-it-UD-IQ2_M.gguf"
+  ],
+  "capabilities": {
+    "chat": "PASS",
+    "json_schema": "PASS",
+    "tool_calling": "FAIL: no tool_calls",
+    "streaming": "PASS"
+  },
+  "evidence": {
+    "timestamp_utc": "2026-10-26T18:07:16.267848+00:00",
+    "project_id": "P00",
+    "python_version": "3.13.13",
+    "platform": "Linux-7.2.9-ogc3.1.fc44.x86_64-x86_64-with-glibc2.43",
+    "command": "probe http://127.0.0.1:8080/v1",
+    "gguf_path_hash": "1a451c88809f94e5",
+    "status": "PASS",
+    "notes": ""
+  }
+}

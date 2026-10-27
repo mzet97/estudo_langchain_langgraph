@@ -1,0 +1,12 @@
+[
+  {"message": "quero a segunda via da fatura", "category": "fatura"},
+  {"message": "minha fatura veio com multa, por que", "category": "fatura"},
+  {"message": "como pago no pix", "category": "fatura"},
+  {"message": "internet caiu tudo aqui", "category": "tecnico"},
+  {"message": "wifi fraco no quarto", "category": "tecnico"},
+  {"message": "luz los vermelha na ont", "category": "tecnico"},
+  {"message": "agendar visita de manha", "category": "agendamento"},
+  {"message": "preciso remarcar a visita", "category": "agendamento"},
+  {"message": "qual meu horoscopo de hoje", "category": "desconhecido"},
+  {"message": "qual o sentido da vida", "category": "desconhecido"}
+]

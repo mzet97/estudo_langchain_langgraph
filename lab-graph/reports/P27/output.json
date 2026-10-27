@@ -1,0 +1,11 @@
+{
+  "staged_before_approval": {
+    "t1": 42,
+    "t2": 3
+  },
+  "results_after": {
+    "t1": 42,
+    "t2": 3
+  },
+  "report": "applied 2 steps: t1=42, t2=3"
+}

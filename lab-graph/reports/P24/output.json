@@ -1,0 +1,10 @@
+{
+  "allowed_read": "conteudo",
+  "denials": 3,
+  "audit_verdicts": [
+    "allowed",
+    "denied:unknown-tool",
+    "denied:identity",
+    "denied:path escapes sandbox"
+  ]
+}
